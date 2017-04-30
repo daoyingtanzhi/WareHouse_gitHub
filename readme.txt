@@ -5,3 +5,5 @@ Git tracks changess of files.
 GitHub is created.
 Creating a new branch is quick and simple and is.
 add merge.
+modify bug!
+add new!
