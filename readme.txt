@@ -3,4 +3,4 @@ Git is free sofeware distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changess of files.
 GitHub is created.
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
